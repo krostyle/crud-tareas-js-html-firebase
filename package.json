@@ -1,7 +1,7 @@
 {
     "name": "webpack-inicial",
     "version": "1.0.0",
-    "description": "Primera app web",
+    "description": "CRUD con Firebase",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
